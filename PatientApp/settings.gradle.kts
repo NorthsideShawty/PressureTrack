@@ -15,3 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "PressureTrack"
 include(":app")
+include(":domain")
+include(":data")
